@@ -1,0 +1,10 @@
+python
+squirrel
+flask
+cucumbers
+cute
+word
+deer
+django
+face
+leg
