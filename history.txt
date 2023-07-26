@@ -1,9 +1,0 @@
-Denis: 40
-vladimir: 90
-kostiy: 10
-dmitry: 50
-ffff: 0
-vity: 20
-sdfds: 10
-dsf: 20
-sdff: 0
